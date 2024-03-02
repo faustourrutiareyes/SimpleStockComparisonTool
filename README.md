@@ -1,4 +1,4 @@
-# Simple Stock Comparison Tool
+# Stock Performance Visualizer
 
 This tool allows for easy viewing of multiple NASDAQ listed stock tickers' performance.
 To use the tool the following paramaters need to be changed: List of tickers, starting date, and end date.
